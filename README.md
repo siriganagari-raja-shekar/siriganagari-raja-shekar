@@ -14,7 +14,7 @@
 - 🔒 CVEForge: Kubernetes-based microservices app for CVEs
 - 📝 CloudNative Assignment Management System
 
-🌱 I’m currently learning and working on multithreading, concurrency programming, cloud security, and any new technology I come across 😄
+🌱 I’m currently learning and working on multithreading, concurrency programming, cloud security, and any new tech I come across 😄
 
 👯 I’m looking to collaborate on anything interesting
 

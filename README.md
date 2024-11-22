@@ -4,7 +4,7 @@
 
 🚀 Passionate about building scalable, innovative software solutions
 
-💻 Tech Versatility:
+💻 Technical Skills:
 - 🧰 Languages: Java, Python, Go, C#, JavaScript, TypeScript
 - 🌐 Web Technologies: React, Angular, .NET, Spring Boot
 - ☁️ Cloud & DevOps: AWS, Kubernetes, Docker
@@ -14,8 +14,9 @@
 - 🔒 CVEForge: Kubernetes-based microservices app for CVEs
 - 📝 CloudNative Assignment Management System
 
-🌱 I’m currently learning and working on mulithreading, concurrency programming, cloud security and anything interesting I come across 😄
-👯 I’m looking to collaborate on anything that's interesting
+🌱 I’m currently learning and working on multithreading, concurrency programming, cloud security, and any new technology I come across 😄
+
+👯 I’m looking to collaborate on anything interesting
 
 📫 Let's Connect:
 - Email: rajashekar.siriganagari@gmail.com

@@ -10,9 +10,9 @@
 - ☁️ Cloud & DevOps: AWS, Kubernetes, Docker
 
 🔬 Recent Projects:
-- 🤖 Pong: Online multiplayer Python game
+- 🤖 [Pong](https://github.com/siriganagari-raja-shekar/pong): Online multiplayer Python game
 - 🔒 CVEForge: Kubernetes-based microservices app for CVEs
-- 📝 CloudNative Assignment Management System
+- 📝 [CloudNative Assignment Management System](https://github.com/siriganagari-raja-shekar/cloud-native-assigment-management-api): RESTful API for assignment management written in Go
 
 🌱 I’m currently learning and working on multithreading, concurrency programming, cloud security, and any new tech I come across 😄
 
